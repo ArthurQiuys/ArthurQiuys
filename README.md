@@ -5,7 +5,7 @@ fn main() {
         role: "backend / systems engineer",
         loves: &["rust", "small tools", "reading source code"],
         learning: &["async runtimes", "compilers", "low-latency networking"],
-        contact: "qiuyuanshun@gmail.com",
+        contact: "arthurqiuy@outlook.com",
     };
 
     println!("{me:#?}");
